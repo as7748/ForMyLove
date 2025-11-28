@@ -6,7 +6,7 @@ A romantic web confession page
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
-> **简短的一句话介绍：** 这里写你的项目是用在这个领域的什么工具，解决了什么核心痛点。
+> **简短的一句话介绍：*一个表白的程序* 
 
 ## 📖 简介 (Introduction)
 
